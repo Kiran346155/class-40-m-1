@@ -1,1 +1,2 @@
-# class-40-m-1
+# synchronousBallMovement
+Ball moving synchronously
